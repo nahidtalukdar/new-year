@@ -141,6 +141,25 @@ margin: 130px 230px;
     margin:50px 600px 50px 55px; 
 }
 /* section-5 */
+.containner{
+    display: flex;
+    background-color: blanchedalmond;
+}
+.new-text{
+    text-align: center;
+    size: 70px;
+    padding: 100px;
+}
+.new-year-img{
+height: 700px;
+width: 750px;
+border-radius: 10px;
+}
+.new-year-text{
+text-align: center;
+size: 50px;
+padding: 155px;
+}
 .container{
 display: flex;
 
